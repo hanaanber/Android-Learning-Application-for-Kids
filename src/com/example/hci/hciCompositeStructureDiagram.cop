@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:CompositeStructureDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" id="{UMLID=_6xn90bOeEeKCjf7KByCh9A,JavaID=com.example.hci}" metadata="uml2-1.0" tag="10" key="323030373036323920636F6D2E6578616D706C652E6C6561726E2E4C6561726E696E67">
+  <children xsi:type="editmodel:ClassEditModel" name="Class1" id="{UMLID=_vbrXQLO0EeKCjf7KByCh9A}">
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <diagramOptions xsi:type="options:CompositeStructureDiagramOptions" level="0" autoName="false"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="14,14" gridOrigin="0,0" rulerUnit="cm" gridShow="true">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+</editmodel:CompositeStructureDiagramEditModel>

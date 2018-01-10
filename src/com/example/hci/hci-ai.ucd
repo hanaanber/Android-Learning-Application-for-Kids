@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" name="hci-ai" id="{UMLID=_6xn90bOeEeKCjf7KByCh9A,JavaID=com.example.hci}" metadata="uml2-1.0" initialized="true" tag="10" key="323030373036323920636F6D2E6578616D706C652E6C6561726E2E4C6561726E696E67" Shrink="true">
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersc" location="50,468" size="123,27" timstampe="3" stereotype="" id="{UMLID=_IY6S4LOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersc}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersp" location="224,391" size="124,27" timstampe="3" stereotype="" id="{UMLID=_Ic-TgLOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersp}" shortShow="true" runTimeClassModel="onActivityResult(III),onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersy" location="396,468" size="123,27" timstampe="3" stereotype="" id="{UMLID=_Ie3J4LOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersy}" shortShow="true" runTimeClassModel="onActivityResult(III),onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayK" location="304,1161" size="77,27" timstampe="3" stereotype="" id="{UMLID=_IgzqoLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayK}" shortShow="true" runTimeClassModel="player,onCreate(),onDestroy(),onBind(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayD" location="686,1084" size="77,27" timstampe="3" stereotype="" id="{UMLID=_IiUGgLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayD}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersd" location="224,314" size="124,27" timstampe="3" stereotype="" id="{UMLID=_IjlR0LOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersd}" shortShow="true" runTimeClassModel="onActivityResult(III),onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayJ" location="553,1315" size="75,27" timstampe="3" stereotype="" id="{UMLID=_IlU-QLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayJ}" shortShow="true" runTimeClassModel="player,onCreate(),onDestroy(),onBind(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayE" location="558,1238" size="76,27" timstampe="3" stereotype="" id="{UMLID=_ImajYLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayE}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayU" location="305,1084" size="77,27" timstampe="3" stereotype="" id="{UMLID=_InfhcLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayU}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersv" location="569,468" size="123,27" timstampe="3" stereotype="" id="{UMLID=_IoqmILOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersv}" shortShow="true" runTimeClassModel="onActivityResult(III),onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnx" location="590,776" size="85,27" timstampe="3" stereotype="" id="{UMLID=_IqQhkLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnx}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersw" location="720,50" size="127,27" timstampe="3" stereotype="" id="{UMLID=_IsDRULOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersw}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learno" location="462,699" size="85,27" timstampe="3" stereotype="" id="{UMLID=_It984LOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learno}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayZ" location="428,1315" size="75,27" timstampe="3" stereotype="" id="{UMLID=_IvuQYLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayZ}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnp" location="320,776" size="85,27" timstampe="3" stereotype="" id="{UMLID=_Iw6jMLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnp}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayS" location="177,1161" size="77,27" timstampe="3" stereotype="" id="{UMLID=_IyhswLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayS}" shortShow="true" runTimeClassModel="player,onCreate(),onDestroy(),onBind(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersx" location="746,314" size="124,27" timstampe="3" stereotype="" id="{UMLID=_IzrjULOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersx}" shortShow="true" runTimeClassModel="onActivityResult(III),onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersz" location="50,545" size="123,27" timstampe="3" stereotype="" id="{UMLID=_I1XlYLOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersz}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersm" location="542,50" size="128,27" timstampe="3" stereotype="" id="{UMLID=_I3ByQLOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersm}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayW" location="312,1007" size="81,27" timstampe="3" stereotype="" id="{UMLID=_I42-QLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayW}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersf" location="50,622" size="120,27" timstampe="3" stereotype="" id="{UMLID=_I55gELOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersf}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnt" location="50,1007" size="81,27" timstampe="3" stereotype="" id="{UMLID=_I7kUALOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnt}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersq" location="572,314" size="124,27" timstampe="3" stereotype="" id="{UMLID=_I9Q9ILOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersq}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayI" location="678,1315" size="72,27" timstampe="3" stereotype="" id="{UMLID=_I-zOMLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayI}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersk" location="223,468" size="123,27" timstampe="3" stereotype="" id="{UMLID=_I_9r0LOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersk}" shortShow="true" runTimeClassModel="onActivityResult(III),onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayQ" location="700,1007" size="78,27" timstampe="3" stereotype="" id="{UMLID=_JBiZILOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayQ}" shortShow="true" runTimeClassModel="player,onCreate(),onDestroy(),onBind(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learna" location="725,776" size="85,27" timstampe="3" stereotype="" id="{UMLID=_JC1ZoLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learna}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnu" location="185,776" size="85,27" timstampe="3" stereotype="" id="{UMLID=_JEauALOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnu}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayH" location="304,1238" size="77,27" timstampe="3" stereotype="" id="{UMLID=_JGDswLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayH}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayV" location="558,1161" size="77,27" timstampe="3" stereotype="" id="{UMLID=_JHKgALOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayV}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnq" location="50,853" size="85,27" timstampe="3" stereotype="" id="{UMLID=_JILzsLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnq}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayO" location="50,1084" size="78,27" timstampe="3" stereotype="" id="{UMLID=_JKBmwLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayO}" shortShow="true" runTimeClassModel="player,onCreate(),onDestroy(),onBind(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayT" location="302,1315" size="76,27" timstampe="3" stereotype="" id="{UMLID=_JLDhgLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayT}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learns" location="184,930" size="83,27" timstampe="3" stereotype="" id="{UMLID=_JMUFwLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learns}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayP" location="431,1161" size="77,27" timstampe="3" stereotype="" id="{UMLID=_JOAH0LOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayP}" shortShow="true" runTimeClassModel="player,onCreate(),onDestroy(),onBind(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayX" location="177,1238" size="77,27" timstampe="3" stereotype="" id="{UMLID=_JPKlcLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayX}" shortShow="true" runTimeClassModel="player,onCreate(),onDestroy(),onBind(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayC" location="50,1238" size="77,27" timstampe="3" stereotype="" id="{UMLID=_JQL5ILOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayC}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learni" location="711,930" size="81,27" timstampe="3" stereotype="" id="{UMLID=_JRQQILOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learni}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnd" location="185,853" size="85,27" timstampe="3" stereotype="" id="{UMLID=_JSzvULOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnd}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="ABCManager" location="742,468" size="123,27" timstampe="3" stereotype="" id="{UMLID=_JUfKULOfEeKCjf7KByCh9A,JavaID=com.example.hci/ABCManager}" shortShow="true" runTimeClassModel="a">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersi" location="566,545" size="120,27" timstampe="3" stereotype="" id="{UMLID=_JVCj8LOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersi}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersh" location="746,391" size="124,27" timstampe="3" stereotype="" id="{UMLID=_JWwbMLOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersh}" shortShow="true" runTimeClassModel="onActivityResult(III),onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayA" location="431,1238" size="77,27" timstampe="3" stereotype="" id="{UMLID=_JYoDcLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayA}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayB" location="178,1084" size="77,27" timstampe="3" stereotype="" id="{UMLID=_JZrMULOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayB}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnb" location="597,699" size="85,27" timstampe="3" stereotype="" id="{UMLID=_Jci6ILOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnb}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnz" location="722,853" size="84,27" timstampe="3" stereotype="" id="{UMLID=_JeKDsLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnz}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersl" location="220,622" size="120,27" timstampe="3" stereotype="" id="{UMLID=_JfybYLOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersl}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLetterse" location="398,314" size="124,27" timstampe="3" stereotype="" id="{UMLID=_Jhd2YLOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLetterse}" shortShow="true" runTimeClassModel="onActivityResult(III),onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnj" location="181,1007" size="81,27" timstampe="3" stereotype="" id="{UMLID=_JjPYALOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnj}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnf" location="449,930" size="81,27" timstampe="3" stereotype="" id="{UMLID=_Jk4WwLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnf}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersu" location="398,391" size="124,27" timstampe="3" stereotype="" id="{UMLID=_JmkY0LOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersu}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayG" location="572,1007" size="78,27" timstampe="3" stereotype="" id="{UMLID=_JoGp4LOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayG}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLetterso" location="50,391" size="124,27" timstampe="3" stereotype="" id="{UMLID=_JpOrQLOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLetterso}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayF" location="176,1315" size="76,27" timstampe="3" stereotype="" id="{UMLID=_Jq1NwLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayF}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learning" location="706,622" size="97,27" timstampe="3" stereotype="" id="{UMLID=_JsGZELOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learning}" shortShow="true" runTimeClassModel="onCreate()">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayY" location="50,1315" size="76,27" timstampe="3" stereotype="" id="{UMLID=_JsyVkLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayY}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersn" location="572,391" size="124,27" timstampe="3" stereotype="" id="{UMLID=_Jt6W8LOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersn}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnr" location="317,930" size="82,27" timstampe="3" stereotype="" id="{UMLID=_JvpcULOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnr}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersr" location="395,545" size="121,27" timstampe="3" stereotype="" id="{UMLID=_JxTCILOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersr}" shortShow="true" runTimeClassModel="onActivityResult(III),onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersj" location="736,545" size="120,27" timstampe="3" stereotype="" id="{UMLID=_J0bOoLOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersj}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayM" location="443,1007" size="79,27" timstampe="3" stereotype="" id="{UMLID=_J4NicLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayM}" shortShow="true" runTimeClassModel="player,onCreate(),onDestroy(),onBind(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnw" location="189,699" size="88,27" timstampe="3" stereotype="" id="{UMLID=_J5R5cLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnw}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learny" location="320,853" size="84,27" timstampe="3" stereotype="" id="{UMLID=_J65qELOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learny}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnc" location="454,853" size="84,27" timstampe="3" stereotype="" id="{UMLID=_J8iBwLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnc}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLetterss" location="223,545" size="122,27" timstampe="3" stereotype="" id="{UMLID=_J-HWILOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLetterss}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnn" location="732,699" size="85,27" timstampe="3" stereotype="" id="{UMLID=_J_ufsLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnn}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayR" location="559,1084" size="77,27" timstampe="3" stereotype="" id="{UMLID=_KBjrsLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayR}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnk" location="50,930" size="84,27" timstampe="3" stereotype="" id="{UMLID=_KCp34LOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnk}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learn" location="432,1084" size="77,27" timstampe="3" stereotype="" id="{UMLID=_KEWhALOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learn}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),intent">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayN" location="685,1161" size="77,27" timstampe="3" stereotype="" id="{UMLID=_KFP44LOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayN}" shortShow="true" runTimeClassModel="player,onCreate(),onDestroy(),onBind(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learne" location="455,776" size="85,27" timstampe="3" stereotype="" id="{UMLID=_KGYhULOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learne}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="About" location="50,1161" size="77,27" timstampe="3" stereotype="" id="{UMLID=_KID8ULOfEeKCjf7KByCh9A,JavaID=com.example.hci/About}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),intent">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnv" location="588,853" size="84,27" timstampe="3" stereotype="" id="{UMLID=_KI_JYLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnv}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="MainActivity" location="390,622" size="117,27" timstampe="3" stereotype="" id="{UMLID=_KKsZkLOfEeKCjf7KByCh9A,JavaID=com.example.hci/MainActivity}" shortShow="true" runTimeClassModel="onCreate(),onCreateOptionsMenu(),et,et2">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learng" location="50,776" size="85,27" timstampe="3" stereotype="" id="{UMLID=_KL2QILOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learng}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Database" location="557,622" size="99,27" timstampe="3" stereotype="" id="{UMLID=_KNhEELOfEeKCjf7KByCh9A,JavaID=com.example.hci/Database}" shortShow="true" runTimeClassModel="onUpgrade(II),onCreate(),Database(),getAllUsers(),addUser()">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersg" location="50,314" size="124,27" timstampe="3" stereotype="" id="{UMLID=_KOcRILOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersg}" shortShow="true" runTimeClassModel="onActivityResult(III),onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnh" location="327,699" size="85,27" timstampe="3" stereotype="" id="{UMLID=_KQEBwLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnh}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="PlayL" location="684,1238" size="76,27" timstampe="3" stereotype="" id="{UMLID=_KRuOoLOfEeKCjf7KByCh9A,JavaID=com.example.hci/PlayL}" shortShow="true" runTimeClassModel="player,onCreate(),onBind(),onDestroy(),onStart(I),TAG">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnm" location="50,699" size="89,27" timstampe="3" stereotype="" id="{UMLID=_KSwwcLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnm}" shortShow="true" runTimeClassModel="onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Learnl" location="580,930" size="81,27" timstampe="3" stereotype="" id="{UMLID=_KUeAoLOfEeKCjf7KByCh9A,JavaID=com.example.hci/Learnl}" shortShow="true" runTimeClassModel="onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),intent,TAG,buttonstop,buttonstart,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.82/@sourceConnections.0 //@children.82/@sourceConnections.2" name="SpellLettera" location="374,237" size="118,27" timstampe="5" stereotype="" id="{UMLID=_J2ENYLOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettera}" shortShow="true" runTimeClassModel="onActivityResult(III),onCreate(),onOptionsItemSelected(),onCreateOptionsMenu(),check(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,et,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SpellLettersb" location="211,145" size="124,27" timstampe="5" stereotype="" id="{UMLID=_Ja0b0LOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLettersb}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),mList,VOICE_RECOGNITION_REQUEST_CODE,intent,setSpellLettera(Lcom.example.hci.SpellLettera;),buttonnext,i,spellLetterst,onCreateOptionsMenu(),spellLettera,onClick(),startVoiceRecognitionActivity(),setSpellLetterst(Lcom.example.hci.SpellLetterst;),getSpellLettera(),getSpellLetterst()">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:AssociationEditModel" fontInfo="Agency FB-11-0" autoLocated="true" id="{UMLID=_DQiOkLPFEeK-Pv43f94Qzg}" source="//@children.82" target="//@children.81" targetEnd="//@children.82/@sourceConnections.0/@children.2" label="//@children.82/@sourceConnections.0/@children.0" sourceEnd="//@children.82/@sourceConnections.0/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" size="0,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="spellLettersb" location="124,17" id="{UMLID=_DQi1oLPFEeK-Pv43f94Qzg}" attachSource="true" multiplicityLabel="//@children.82/@sourceConnections.0/@children.1/@children.0" flags="1">
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="342,141" size="18,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+      </children>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="spellLettera" location="10,0" id="{UMLID=_DQkDwLPFEeK-Pv43f94Qzg}" multiplicityLabel="//@children.82/@sourceConnections.0/@children.2/@children.0" roleLabel="//@children.82/@sourceConnections.0/@children.2/@children.1" navigable="true" flags="2">
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="359,216" size="18,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="- spellLettera" location="391,216" size="63,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+      </children>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:AssociationEditModel" autoLocated="true" id="{UMLID=_SvchQLRBEeKxU5ZMKQQJZA}" source="//@children.82" target="//@children.83" targetEnd="//@children.82/@sourceConnections.1/@children.2" label="//@children.82/@sourceConnections.1/@children.0" sourceEnd="//@children.82/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" size="0,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="spellLettersb" location="0,10" id="{UMLID=_SvoHcLRBEeKxU5ZMKQQJZA}" attachSource="true" multiplicityLabel="//@children.82/@sourceConnections.1/@children.1/@children.0" flags="1">
+        <children xsi:type="editmodel:LabelEditModel" name="1" location="198,162" size="6,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+      </children>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="spellLetterst" location="110,27" id="{UMLID=_Svm5ULRBEeKxU5ZMKQQJZA}" multiplicityLabel="//@children.82/@sourceConnections.1/@children.2/@children.0" roleLabel="//@children.82/@sourceConnections.1/@children.2/@children.1" navigable="true" flags="2">
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="167,84" size="18,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="- spellLetterst" location="87,84" size="66,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+      </children>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:UseCaseAssociationEditModel" id="{UMLID=_6AfmkLPEEeK-Pv43f94Qzg}" source="//@children.82" target="//@children.81" targetEnd="//@children.82/@sourceConnections.2/@children.2" label="//@children.82/@sourceConnections.2/@children.0" sourceEnd="//@children.82/@sourceConnections.2/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" foregroundRGB="96,96,96" size="0,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:UseCaseEndEditModel" name="SpellLettersb" location="124,26" id="{UMLID=_6gRS0LPEEeK-Pv43f94Qzg}" attachSource="true" multiplicityLabel="//@children.82/@sourceConnections.2/@children.1/@children.0" roleLabel="//@children.82/@sourceConnections.2/@children.1/@children.1" navigable="true" flags="1">
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="342,178" size="18,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="+ SpellLettersb" foregroundRGB="96,96,96" location="342,150" size="72,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+      </children>
+      <children xsi:type="editmodel:UseCaseEndEditModel" name="SpellLettera" location="10,10" id="{UMLID=_6gTIALPEEeK-Pv43f94Qzg}" multiplicityLabel="//@children.82/@sourceConnections.2/@children.2/@children.0" roleLabel="//@children.82/@sourceConnections.2/@children.2/@children.1" navigable="true" flags="1">
+        <children xsi:type="editmodel:LabelEditModel" name="*" location="363,226" size="4,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="+ SpellLettera" foregroundRGB="96,96,96" location="301,254" size="66,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+      </children>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.82/@sourceConnections.1" name="SpellLetterst" location="50,50" size="120,27" timstampe="5" stereotype="" id="{UMLID=_Jy5koLOfEeKCjf7KByCh9A,JavaID=com.example.hci/SpellLetterst}" shortShow="true" runTimeClassModel="onActivityResult(III),onOptionsItemSelected(),onCreate(),onCreateOptionsMenu(),onClick(),mList,startVoiceRecognitionActivity(),VOICE_RECOGNITION_REQUEST_CODE,intent,buttonnext">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true"/>
+  </children>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" level="4" showScope="InPackage" properties="wireOptions=3"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="14,14" gridOrigin="336,168" rulerUnit="cm" gridShow="true">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" attributeSorter="Natural" methodSorter="Natural" shortPackageNameFormat="true" showClassStereotype="true" showPackageStereotype="true" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showInterfaceStereotype="true" showInnerEntity="true"/>
+</editmodel:ClassDiagramEditModel>
