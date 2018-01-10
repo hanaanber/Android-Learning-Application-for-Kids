@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:SequenceDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" name="com.example.learn.LearningSequenceDiagram" id="{UMLID=_lOTuwLU9EeK69qRcntS-ng}" metadata="uml2-1.0" initialized="true" scrolledY="2" tag="10" key="323030373036323920636F6D2E6578616D706C652E6C6561726E2E4C6561726E696E67">
+  <children xsi:type="editmodel:FrameEditModel" name="Interaction1" size="900,434" id="{UMLID=_lPk6ELU9EeK69qRcntS-ng}" type="Interaction">
+    <children xsi:type="editmodel:InstanceEditModel" name="Game" location="152,25" size="124,379" fontInfo="Omondo_Font_Default-11-0" description="Unspecified" id="{UMLID=_r2p7wLU9EeK69qRcntS-ng}" itemName="Game">
+      <children xsi:type="editmodel:ActivationEditModel" targetConnections="//@children.0/@children.1/@children.0/@sourceConnections.0" location="54,128" size="16,72" description="_zMQQULU9EeK69qRcntS-ng" sequenceItemContainer="//@children.0/@children.0" length="72"/>
+    </children>
+    <children xsi:type="editmodel:ActorEditModel" name="Child" location="61,25" size="100,300" fontInfo="Omondo_Font_Default-11-0" id="{UMLID=_tcobEbU9EeK69qRcntS-ng}" itemName="Child">
+      <children xsi:type="editmodel:ActivationEditModel" location="42,128" size="16,72" sequenceItemContainer="//@children.0/@children.1" length="72">
+        <sourceConnections xsi:type="editmodel:SequenceMessageEditModel" name="Listen" id="{UMLID=_zKbEULU9EeK69qRcntS-ng}" source="//@children.0/@children.1/@children.0" target="//@children.0/@children.0/@children.0" targetEnd="//@children.0/@children.1/@children.0/@sourceConnections.0/@children.1" sourceEnd="//@children.0/@children.1/@children.0/@sourceConnections.0/@children.0" connectionRouterKind="Manual" associatedMethod="" associatedSequenceNumber="1">
+          <children xsi:type="editmodel:SequenceEndEditModel" anchorKind="FixedAtEdge" attachSource="true" userLabel="//@children.0/@children.1/@children.0/@sourceConnections.0/@children.0/@children.0" methodLabel="//@children.0/@children.1/@children.0/@sourceConnections.0/@children.0/@children.1" sequenceNumberLabel="//@children.0/@children.1/@children.0/@sourceConnections.0/@children.0/@children.2" statementExpression="//@children.0/@children.1/@children.0/@sourceConnections.0/@children.0/@children.3">
+            <children xsi:type="editmodel:MessageLabelEditModel" size="29,14" fontInfo="Arial-8-0" labelValue="Listen"/>
+            <children xsi:type="editmodel:LabelEditModel" size="0,14" fontInfo="Arial-8-0"/>
+            <children xsi:type="editmodel:LabelEditModel" name="1" size="6,14" fontInfo="Arial-8-0"/>
+            <children xsi:type="editmodel:MessageLabelEditModel" size="0,14" fontInfo="Arial-8-0"/>
+          </children>
+          <children xsi:type="editmodel:SequenceEndEditModel" anchorKind="FixedAtEdge" userLabel="//@children.0/@children.1/@children.0/@sourceConnections.0/@children.1/@children.0" methodLabel="//@children.0/@children.1/@children.0/@sourceConnections.0/@children.1/@children.1" sequenceNumberLabel="//@children.0/@children.1/@children.0/@sourceConnections.0/@children.1/@children.2" statementExpression="//@children.0/@children.1/@children.0/@sourceConnections.0/@children.1/@children.3">
+            <children xsi:type="editmodel:MessageLabelEditModel" size="0,14" fontInfo="Arial-8-0"/>
+            <children xsi:type="editmodel:LabelEditModel" size="0,14" fontInfo="Arial-8-0"/>
+            <children xsi:type="editmodel:LabelEditModel" size="0,14" fontInfo="Arial-8-0"/>
+            <children xsi:type="editmodel:MessageLabelEditModel" size="0,14" fontInfo="Arial-8-0"/>
+          </children>
+        </sourceConnections>
+      </children>
+    </children>
+  </children>
+  <diagramOptions xsi:type="options:SequenceDiagramOptions" level="0" autoName="false"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="14,14" gridOrigin="1764,1764" rulerUnit="cm" gridShow="true">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+</editmodel:SequenceDiagramEditModel>
