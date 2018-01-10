@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item1" android:title="@string/str_show_letters" android:icon="@drawable/showlettersbutton"></item>
+    <item android:id="@+id/item2" android:title="@string/str_Start_Learning" android:icon="@drawable/startlearningbutton">
+        <menu>
+            <item android:id="@+id/item5" android:title="@string/str_lettera"/>
+            <item android:id="@+id/item6" android:title="@string/str_letterb"/>
+            <item android:id="@+id/item7" android:title="@string/str_letterc"/>
+        </menu>
+    </item>
+    <item android:id="@+id/item3" android:title="@string/str_exit" android:icon="@drawable/exitbutton"></item>
+    <item android:id="@+id/item4" android:title="@string/str_about_us" android:icon="@drawable/aboutusbutton"></item>
+
+</menu>
