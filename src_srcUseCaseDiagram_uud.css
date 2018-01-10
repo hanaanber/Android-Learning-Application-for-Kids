@@ -1,0 +1,78 @@
+#src_srcUseCaseDiagram_uud{
+width: 740;
+height: 497;
+overflow: hidden;
+background: url(src_srcUseCaseDiagram_uud.png) top left no-repeat;
+}
+#English_Learning{
+position: absolute;
+float: left;
+width: 337;
+height: 477;
+margin-left: 214;
+margin-top: 10;
+}
+#Listen_From_Program{
+position: absolute;
+float: left;
+width: 150;
+height: 50;
+margin-left: 99;
+margin-top: 98;
+}
+#Speak_To_Program{
+position: absolute;
+float: left;
+width: 150;
+height: 50;
+margin-left: 104;
+margin-top: 181;
+}
+#Write_a_Word{
+position: absolute;
+float: left;
+width: 150;
+height: 50;
+margin-left: 109;
+margin-top: 312;
+}
+#Pronounce_The_Word{
+position: absolute;
+float: left;
+width: 150;
+height: 50;
+margin-left: 108;
+margin-top: 406;
+}
+#Search_For_a_Word{
+position: absolute;
+float: left;
+width: 150;
+height: 50;
+margin-left: 108;
+margin-top: 255;
+}
+#Child{
+position: absolute;
+float: left;
+width: 70;
+height: 100;
+margin-left: 42;
+margin-top: 80;
+}
+#Teacher{
+position: absolute;
+float: left;
+width: 70;
+height: 100;
+margin-left: 42;
+margin-top: 262;
+}
+#System{
+position: absolute;
+float: left;
+width: 70;
+height: 100;
+margin-left: 658;
+margin-top: 180;
+}
